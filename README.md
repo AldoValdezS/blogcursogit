@@ -3,8 +3,8 @@ Un blog personal
 >es interesante lo que esta página puede hacer
 
 En el curso de platzi de git se aprende:
-* crear repositorio local
-* crear repositorios remotos
-* muchos comandos importantes
-* algo sobre DevOps
-* buenas prácticas de programación
+* Crear repositorio local
+* Crear repositorios remotos
+* Muchos comandos importantes
+* Algo sobre DevOps
+* Buenas prácticas de programación
