@@ -1,4 +1,4 @@
-#SuperRex  
+# Super Blog  
 Un blog personal
 >es interesante lo que esta página puede hacer
 
